@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+motor==3.1.1
+pymongo==4.3.3
+Pillow
+requests==2.31.0
